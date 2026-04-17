@@ -22,7 +22,7 @@ Electricity Bill
 Enter the Electricity Bill
 7412
 Enter the Consumer Name
-Amsaveni
+Ramya
 Previous Unit
 500
 Current Unit
