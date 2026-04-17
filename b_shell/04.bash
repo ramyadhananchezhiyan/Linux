@@ -20,7 +20,7 @@ g=`expr $e + $f`
 echo "Total Amount to be paid $g"
 
 output:
-Amsaveni Computer Mart
+Ramya Computer Mart
 No.12,Nehru Street, Puducheery
 ------------------------------
 Bill Receipt
