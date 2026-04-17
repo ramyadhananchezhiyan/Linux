@@ -1,4 +1,4 @@
-echo "Amsaveni Computer Mart"
+echo "Ramya Computer Mart"
 echo "No.12,Nehru Street, Puducheery"
 echo "------------------------------"
 echo "Bill Receipt"
